@@ -14,7 +14,7 @@ A simple Java Calculator built using Core Java.
 
 ## Technologies Used
 - Java
-- Scanner
+- VS Code
 
 ## Author
 Divyanshi
