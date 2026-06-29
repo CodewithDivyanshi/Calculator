@@ -1,4 +1,3 @@
-# Calculator
 # Java Calculator
 
 ## Description
